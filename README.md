@@ -1,10 +1,12 @@
 # lab5-exercise
 Repository for Lab 5 Exercise
-## How to use
-### What is it
+## What is it
 - The file Riddle.ipynb contains the source code for this exercise.
 - It prompts the user to enter their name and an answer to the riddle.
 - The code stops running if the user enters the correct answer or after 3 wrong tries.
+### How to use
+- Open python IDE
+- Once open, compile and run the the file
 ### How to install
 - Download the zip file from gitHub using the gitHub code button and downloading the zip.
 - Run it clone using the link provided under the code button.
